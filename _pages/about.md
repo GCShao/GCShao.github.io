@@ -26,13 +26,6 @@ My research interests mainly lie in the intersection of optics and AI, especiall
 
 
 
-%My research interest includes neural machine translation and computer vision. I have published more than 100 papers at the %top international AI conferences with total <a href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'>google %scholar citations <strong><span id='total_cit'>260000+</span></strong></a> (You can also use google scholar badge <a %href='https://scholar.google.com/citations?user=DhtAFkwAAAAJ'><img src="https://img.shields.io/endpoint?url={{ url | %url_encode }}&logo=Google%20Scholar&labelColor=f6f6f6&color=9cf&style=flat&label=citations"></a>).
-
-
-%# 🔥 News
-%- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus %justo dapibus sit amet. 
-
-
 # 📝 Publications 
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
@@ -41,6 +34,7 @@ My research interests mainly lie in the intersection of optics and AI, especiall
 <div class='paper-box-text' markdown="1">
 
 Reliable, Efficient and Scalable Photonic Inverse Design Empowered by Physics-inspired Deep Learning
+
 -**Guocheng Shao**<sup>\*</sup>, Tiankuang Zhou<sup>\*</sup>, Tao Yan, Yanchen Guo, Yun Zhao, Ruqi Huang<sup>†</sup> and Lu Fang<sup>†</sup>
 - [**\[pdf\]**](www.google.com)
 
@@ -51,6 +45,7 @@ Reliable, Efficient and Scalable Photonic Inverse Design Empowered by Physics-in
 <div class='paper-box-text' markdown="1">
 
 Nano-watt all-optical 3D perception for mobile robotics
+
 -Tao Yan<sup>\*</sup>, Tiankuang Zhou<sup>\*</sup>, Yanchen Guo<sup>\*</sup>, Yun Zhao, **Guocheng Shao**, Jiamin Wu, Ruqi Huang<sup>†</sup>, Qionghai Dai<sup>†</sup>, Lu Fang<sup>†</sup>.
 - [**\[pdf\]**](https://www.science.org/doi/10.1126/sciadv.adn2031)
 
