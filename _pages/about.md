@@ -20,13 +20,16 @@ redirect_from:
 I am a 3rd-year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) , co-supervised by Prof. Ruqi Huang and Prof. Qionghai Dai. Prior to that, I received my Bachelor degree from Nanjing University in 2022.
 
 My research interests mainly lie in the intersection of optics and AI, especially in:
+
 ·	Optoelectronic Intelligent Computing: explore novel architecture and system.
+
 ·	Integrated Photonics: analog computing paradigms and applications.
+
 ·	Photonic design algorithms:  reliable and efficient simulation tools.
 
 
 
-# 📝 Publications 
+## 📝 Publications 
 
 <sup>\*</sup> denotes equal contribution, <sup>†</sup> denotes corresponding author.
 
@@ -54,14 +57,14 @@ Nano-watt all-optical 3D perception for mobile robotics
 
 
 
-# 🎖 Honors and Awards
+## 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
 
-# 📖 Educations
+## 📖 Educations
 - *2022.09 - 2025.06*, M.Eng. in Electronic Engineering, Tsinghua University, Beijing, China. 
 - *2018.09 - 2022.06*, B.Sc. in Physics, Nanjing University, Nanjing, China.
 - *2021.09 - 2022.06*, Visiting student in AI+, Zhejiang University, Hangzhou, China.
 
-# 💻 Internships
+## 💻 Internships
 - *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
