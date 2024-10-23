@@ -69,4 +69,4 @@ Nano-watt all-optical 3D perception for mobile robotics
 - *2021.09 - 2022.06*, Visiting student in AI+, Zhejiang University, Hangzhou, China.
 
 ## 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2024.05 - 2024.08*, Changci (Shanghai) Integrated Circuit Co. Ltd, Shanghai, China.
