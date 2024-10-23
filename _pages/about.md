@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am a 3rd-year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) , co-supervised by Prof. Ruqi Huang and Prof. Qionghai Dai. Prior to that, I received my Bachelor degree from Nanjing University in 2022.
+I am a 3rd-year Master student at [Tsinghua University](https://www.tsinghua.edu.cn/en/) , co-supervised by Prof. Ruqi Huang and Prof. Qionghai Dai. Prior to that, I received my Bachelor's degree from Nanjing University in 2022.
 
 My research interests mainly lie in the intersection of optics and AI, especially in:
 
