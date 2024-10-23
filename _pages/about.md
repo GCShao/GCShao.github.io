@@ -61,6 +61,7 @@ Nano-watt all-optical 3D perception for mobile robotics
 - *2020.09* National Encouragement Scholarship (2020), Ministry of Education.
 - *2021.09* First-Class Elite Program Scholarship (2021), Nanjing University.
 - *2021.09* National Encouragement Scholarship (2021), Ministry of Education.
+- *2022.06* Outstanding Graduate of Nanjing University, Nanjing University.
 - *2022.12* Best Presentation Award of Tsinghua SDG, Tsinghua University.
 
 ## 📖 Educations
