@@ -55,11 +55,13 @@ Nano-watt all-optical 3D perception for mobile robotics
 </div>
 </div>
 
-
-
 ## 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2019.09* Dewang Scholarship, Nanjing University. 
+- *2020.09* First-Class Elite Program Scholarship (2020), Nanjing University.
+- *2020.09* National Encouragement Scholarship (2020), Ministry of Education.
+- *2021.09* First-Class Elite Program Scholarship (2021), Nanjing University.
+- *2021.09* National Encouragement Scholarship (2021), Ministry of Education.
+- *2022.12* Best Presentation Award of Tsinghua SDG, Tsinghua University.
 
 ## 📖 Educations
 - *2022.09 - 2025.06*, M.Eng. in Electronic Engineering, Tsinghua University, Beijing, China. 
